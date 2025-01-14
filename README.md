@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://cdn.discordapp.com/attachments/1257336077140754503/1328581275115716701/Animation.gif?ex=6787393b&is=6785e7bb&hm=01140eed8eb4410807fe5e3a511bc2ec57e110fd60110c0c1725c7d73d2fa4a7&' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/paulvan2000/web102_prework/blob/main/assets/Animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
